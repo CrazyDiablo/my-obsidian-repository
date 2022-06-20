@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test note.md",
+            "file": "工具库.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test note.md",
+                "file": "工具库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +100,8 @@
   },
   "active": "4f8d44972f44252a",
   "lastOpenFiles": [
-    "test note.md",
     "工具库.md",
+    "test note.md",
     "常用CSS库.md",
     "常用js工具函数库.md",
     "新系统软件和环境.md"
