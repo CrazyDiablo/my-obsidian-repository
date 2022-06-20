@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "bf8a4b165b985c8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f8d44972f44252a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "常用js工具函数库.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "876639f3bed08cdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "10f33cac810b273a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70a1025b5f1a3d36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b46b64377bb87de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#测试标签",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316
+  },
+  "right": {
+    "id": "49fa678b0dcde932",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f0d9e33527f7459",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "478fe549c2b5e23b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "常用js工具函数库.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a537f0dc57e3bdcd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4f8d44972f44252a",
+  "lastOpenFiles": [
+    "常用js工具函数库.md",
+    "工具库.md",
+    "常用CSS库.md",
+    "新系统软件和环境.md",
+    "first note.md"
+  ]
+}
